@@ -10,8 +10,6 @@ Add `Gate` to your list of dependencies in `mix.exs`:
 ```elixir
 defp deps do
   [
-    {:plug, "~> 1.11"},
-    {:cowboy, "~> 2.9"},
     {:gate, "~> 0.0.1"}.
   ]
 end
